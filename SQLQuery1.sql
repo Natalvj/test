@@ -1,3 +1,4 @@
+--тестовый комментарий
 create database PrJob1_61_12
 on primary
 (
